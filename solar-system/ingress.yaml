@@ -17,7 +17,7 @@ spec:
         pathType: Prefix
         backend:
           service:
-            name: test-service
+            name: solar-system-service
             port:
               number: 80
   tls:
