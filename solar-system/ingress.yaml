@@ -20,7 +20,3 @@ spec:
             name: solar-system-service
             port:
               number: 80
-  tls:
-  - hosts:
-    - kkaragulle.men
-    secretName: test-secret # do not change, this is provided by Argo CD
